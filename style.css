@@ -9,7 +9,7 @@ body {
 
 .top {
     color: white;
-    background-color: dimgray;
+    background-color: #1F2937;
     display: flex;
     flex-direction: column;
 }
@@ -155,7 +155,7 @@ img{
 
 .footer {
     color: white;
-    background-color: darkblue;
+    background-color: #1F2937;
     display: flex;
     justify-content: center;
     padding: 4%;
